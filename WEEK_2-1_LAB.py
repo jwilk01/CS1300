@@ -24,3 +24,9 @@ print("age TYPE: ", type(age), "    gpa TYPE: ", type(gpa), "    likes_python TY
 
 name_2 = name * 3
 print(name_2)
+
+age = age + "Testing"
+""" IF YOU ADD AN INT TO A FLOAT, YOU GET AN ERROR.
+YES, YOU CAN MULTIPLY A STRING BY A NUMBER.
+IF YOU ADD A STR TO AN INT, YOU GET A TYPE ERROR.
+"""
