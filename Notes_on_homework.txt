@@ -1,0 +1,10 @@
+Homework 2: 100 out of 100
+Homework 4: 125 out of 100
+Homework 5: 75 out of 110
+Homework 6: 70 out of 100
+Homework 7: 75 out of 75
+    In Python, we won't put all the varibles we want to use at the beginning of the code
+Homework 8: 130 out of 80
+    Line 63 to Line 64: not reachable
+Homework 9: 105 out of 100
+Homework 10: 80 out of 100
